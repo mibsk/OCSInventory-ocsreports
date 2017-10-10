@@ -10,6 +10,7 @@ hungarian
 portuguese
 russian
 slovenian
+slovak
 turkish
 japanese
 </ORDER>
@@ -25,6 +26,7 @@ polish:polish
 portuguese:portuguese
 russian:russian
 slovenian:slovenian
+slovak:slovak
 spanish:spanish
 turkish:turkish
 japanese:japanese
